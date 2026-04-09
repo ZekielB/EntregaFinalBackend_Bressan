@@ -22,6 +22,16 @@ Incluye funcionalidades avanzadas como:
 * Mongoose
 
 ---
+## 🌐 Base de datos
+
+El proyecto utiliza MongoDB Atlas como base de datos en la nube.  
+La conexión se realiza mediante variables de entorno.
+
+Para ejecutar el proyecto, crear un archivo `.env` con:
+
+MONGO_URL=mongodb+srv://admin:admin@cluster0.zhfwe7z.mongodb.net/ecommerce
+PORT=8080
+
 
 ## ⚙️ Instalación
 
