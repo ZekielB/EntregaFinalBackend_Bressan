@@ -5,7 +5,7 @@ const cartSchema = new Schema({
     {
       product: {
         type: Schema.Types.ObjectId,
-        ref: "products" // ⚠️ tiene que coincidir con tu model('products')
+        ref: "products" 
       },
       quantity: { type: Number, default: 1 }
     }

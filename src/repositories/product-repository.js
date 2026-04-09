@@ -20,7 +20,6 @@ getAll = async ({ limit = 10, page = 1, sort, query }) => {
         filter.category = query;
       }
     }
-
     
     let sortOption = {};
     if (sort === "asc") sortOption.price = 1;
