@@ -33,35 +33,6 @@ MONGO_URL=mongodb+srv://admin:admin@cluster0.zhfwe7z.mongodb.net/ecommerce
 PORT=8080
 
 
-## ⚙️ Instalación
-
-1. Clonar el repositorio:
-
-```bash
-git clone <url-del-repo>
-```
-
-2. Instalar dependencias:
-
-```bash
-npm install
-```
-
-3. Configurar variables de entorno (opcional):
-
-```env
-PORT=8080
-MONGO_URL=mongodb://localhost:27017/ecommerce
-```
-
-4. Ejecutar el servidor:
-
-```bash
-npm start
-```
-
----
-
 ## 📦 Endpoints
 
 ### 🔹 Productos
