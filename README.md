@@ -197,15 +197,7 @@ src/
 └── server.js
 ```
 
----
 
-## ✅ Estado del proyecto
-
-✔ Funcional
-✔ Cumple con los requisitos del TP
-✔ Listo para entrega
-
----
 
 ## 👨‍💻 Autor
 
